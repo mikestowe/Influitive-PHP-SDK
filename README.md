@@ -1,6 +1,8 @@
 # Influitive-PHP-SDK
 Simple SDK for Using the Influitive API to retrieve member information, events, or approve (corporate workflow) challenges.
 
+To get started, open engine.php and replace the %HUB_NAME% and %TOKEN% placeholders in the first few lines.
+
 ```
 <?php
 require_once('members.php');
